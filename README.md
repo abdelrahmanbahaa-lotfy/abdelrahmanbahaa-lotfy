@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm Abdelrahman
 
-<!--
-**abdelrahmanbahaa-lotfy/abdelrahmanbahaa-lotfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** who automates the boring parts with AI — so businesses can focus on decisions, not data cleanup.
+I turn raw data into dashboards people actually use, and repetitive tasks into workflows that run themselves.
 
-Here are some ideas to get you started:
+---
+### 🔧 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data & BI:** SQL · Power BI · Excel · Tableau · Power Query · DAX · Data Modeling · Pivot Tables
+**AI Automation:** n8n · Make.com · Prompt Engineering · AI Agents · Supabase
+
+---
+
+### 📈 Currently expanding into
+
+Python · Pandas · Numpy · Databricks · MongoDB · AWS · Azure · Snowflake — building toward Data Engineering.
+
+---
+
+### 🌍 Languages
+
+Arabic (Native) · English (B2) · German (B1)
+
+---
+
+### 📫 Open to freelance & full-time roles in Data Analysis, BI, and Automation
+
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-bahaa-lotfy-8ba35131b/)
