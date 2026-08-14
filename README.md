@@ -7,6 +7,7 @@ I turn raw data into dashboards people actually use, and repetitive tasks into w
 ### 🔧 What I work with
 
 **Data & BI:** SQL · Power BI · Excel · Tableau · Power Query · DAX · Data Modeling · Pivot Tables
+
 **AI Automation:** n8n · Make.com · Prompt Engineering · AI Agents · Supabase
 
 ---
